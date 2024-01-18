@@ -1,0 +1,15 @@
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\bin\Debug\net6.0\task.exe
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\bin\Debug\net6.0\task.deps.json
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\bin\Debug\net6.0\task.dll
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\bin\Debug\net6.0\task.pdb
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\obj\Debug\net6.0\task.dll
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\obj\Debug\net6.0\refint\task.dll
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\obj\Debug\net6.0\task.pdb
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\Users\Muste\OneDrive\Рабочий стол\Итоговая контрольная работа по C#\task\obj\Debug\net6.0\ref\task.dll
